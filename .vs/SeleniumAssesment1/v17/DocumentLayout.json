@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parla\\ASSIGNMENTS\\SeleniumAssignment 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0618A54A-E187-4A9D-A3F9-AFFB62F2341E}|SeleniumAssignment1\\SeleniumAssignment1.csproj|c:\\users\\parla\\assignments\\seleniumassignment 1\\seleniumassignment1\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0618A54A-E187-4A9D-A3F9-AFFB62F2341E}|SeleniumAssignment1\\SeleniumAssignment1.csproj|solutionrelative:seleniumassignment1\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0618A54A-E187-4A9D-A3F9-AFFB62F2341E}|SeleniumAssignment1\\SeleniumAssignment1.csproj|c:\\users\\parla\\assignments\\seleniumassignment 1\\seleniumassignment1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0618A54A-E187-4A9D-A3F9-AFFB62F2341E}|SeleniumAssignment1\\SeleniumAssignment1.csproj|solutionrelative:seleniumassignment1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0618A54A-E187-4A9D-A3F9-AFFB62F2341E}|SeleniumAssignment1\\SeleniumAssignment1.csproj|c:\\users\\parla\\assignments\\seleniumassignment 1\\seleniumassignment1\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0618A54A-E187-4A9D-A3F9-AFFB62F2341E}|SeleniumAssignment1\\SeleniumAssignment1.csproj|solutionrelative:seleniumassignment1\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0618A54A-E187-4A9D-A3F9-AFFB62F2341E}|SeleniumAssignment1\\SeleniumAssignment1.csproj|c:\\users\\parla\\assignments\\seleniumassignment 1\\seleniumassignment1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0618A54A-E187-4A9D-A3F9-AFFB62F2341E}|SeleniumAssignment1\\SeleniumAssignment1.csproj|solutionrelative:seleniumassignment1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\SeleniumAssignment 1\\SeleniumAssignment1\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "SeleniumAssignment1\\Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\SeleniumAssignment 1\\SeleniumAssignment1\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "SeleniumAssignment1\\Tests\\LoginTest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:00:21.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\SeleniumAssignment 1\\SeleniumAssignment1\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SeleniumAssignment1\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\SeleniumAssignment 1\\SeleniumAssignment1\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "SeleniumAssignment1\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:58:02.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\SeleniumAssignment 1\\SeleniumAssignment1\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "SeleniumAssignment1\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\SeleniumAssignment 1\\SeleniumAssignment1\\Pages\\HomePage.cs",
+              "RelativeToolTip": "SeleniumAssignment1\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:57:59.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\parla\\ASSIGNMENTS\\SeleniumAssignment 1\\SeleniumAssignment1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SeleniumAssignment1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\parla\\ASSIGNMENTS\\SeleniumAssignment 1\\SeleniumAssignment1\\UnitTest1.cs",
+              "RelativeToolTip": "SeleniumAssignment1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:52:20.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
